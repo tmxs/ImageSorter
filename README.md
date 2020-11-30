@@ -6,5 +6,5 @@ Only available for Linux.
 
 ## Usage
 
-      curl -LO https://raw.githubusercontent.com/tmxs/ImageSorter/master/install.sh
-      sh ./install.sh
+    curl -LO https://raw.githubusercontent.com/tmxs/ImageSorter/master/install.sh
+    sh ./install.sh
