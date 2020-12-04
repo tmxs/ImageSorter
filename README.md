@@ -4,7 +4,7 @@ The following script captures all images, of type JPG and PNG, in the specified 
 
 Only available for Linux.
 
-## Installatin
+## Installation
 
     curl -LO https://raw.githubusercontent.com/tmxs/ImageSorter/master/install.sh
     sh ./install.sh
